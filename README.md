@@ -22,11 +22,11 @@ Module-9-SQL-Challenge
                 titles.csv
 ```
 
-The *EmployeeSQL* folder contains the working files for PostgreSQL and the *Resources* folder.
++ The *EmployeeSQL* folder contains the working files for PostgreSQL and the *Resources* folder.
 + The **employee_analysis.sql** file is the employee query that answers the analysis questions.
 + The **schema.sql** file contains the create table statements for the database.
-The **Employee ERD.png** file in the *Resources* folder shows the Entity Relationship Diagram used to create the database tables.
-Contained within the *data* folder are the different csv files used to populate the database tables with information.
++ The **Employee ERD.png** file in the *Resources* folder shows the Entity Relationship Diagram used to create the database tables.
++ Contained within the *data* folder are the different csv files used to populate the database tables with information.
 
 **Instructions:**
 1. Clone the repository.
